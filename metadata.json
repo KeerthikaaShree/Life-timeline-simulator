@@ -1,0 +1,6 @@
+{
+  "name": "Life Timeline Simulator",
+  "description": "Visualizes two future life paths based on current habits using compound growth logic (+1% daily improvement vs. status quo).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
